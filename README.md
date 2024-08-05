@@ -13,15 +13,18 @@ This repository contains a solution for predicting loan eligibility based on var
 ## Setup Instructions
 
 1. Clone the repository:
+    ```sh
     git clone https://github.com/kaurrmanpreett/Loan-Eligibility-model-solution.git
     
 
 2. Create and activate a virtual environment (optional but recommended):
+    ```sh
     python -m venv venv
     source venv/bin/activate   # On Windows use `venv\Scripts\activate`
     
 
 3. Install the required dependencies:
+    ```sh
     pip install -r requirements.txt
 
 4. Place the dataset (`credit.csv`) in the `data/` directory.
@@ -41,6 +44,6 @@ scikit-learn
 Install the dependencies using:
    pip install -r requirements.txt
 
-This project is licensed under the MIT License.
+This project is licensed under the Apache License 2.0.
 
  
