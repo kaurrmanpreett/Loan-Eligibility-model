@@ -32,6 +32,7 @@ This repository contains a solution for predicting loan eligibility based on var
 ## Usage
 
 Run the main script to execute the full pipeline from data loading to model evaluation:
+```sh
 python main.py
 
 ## Dependencies
@@ -42,7 +43,8 @@ matplotlib
 scikit-learn
 
 Install the dependencies using:
-   pip install -r requirements.txt
+   ```sh
+pip install -r requirements.txt
 
 This project is licensed under the Apache License 2.0.
 
