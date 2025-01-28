@@ -14,7 +14,7 @@ This repository contains a solution for predicting loan eligibility based on var
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/kaurrmanpreett/Loan-Eligibility-model-solution.git
+    git clone https://github.com/kaurrmanpreett/Loan-Eligibility-model.git
     
 
 2. Create and activate a virtual environment (optional but recommended):
